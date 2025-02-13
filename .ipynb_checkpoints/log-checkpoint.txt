@@ -1,0 +1,6 @@
+Refresh (1 sec) http://localhost:8889/lab?token=
+9574abb7b3315e31fcd14e6a51ccb8200265eb4e85d2c20c
+
+This page should redirect you to a Jupyter application. If it doesn't, click
+here to go to Jupyter.
+

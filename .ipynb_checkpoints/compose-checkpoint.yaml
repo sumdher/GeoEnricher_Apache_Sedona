@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  sedona:
+    image: apache/sedona:latest
+    ports:
+      - "8888:8888"
+      - "4141:4040"
+      - "8180:8080"
+      - "8181:8081"
+    volumes:
+      - "./:/opt/workspace/my_data"
+      - "./z_volume:/opt/workspace"
+    environment:
+      - EXECUTOR_MEM=15g
+      - DRIVER_MEM=13g
