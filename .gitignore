@@ -4,3 +4,6 @@ data_Germany/
 data_Italy/
 outputs/
 sedona_venv/
+lab
+spark-warehouse/
+tmp_spark_spills/
