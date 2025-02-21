@@ -8,6 +8,7 @@ async-lru==2.0.4
 attrs==24.3.0
 babel==2.16.0
 beautifulsoup4==4.12.3
+black==25.1.0
 bleach==6.2.0
 certifi==2024.12.14
 cffi==1.17.1
@@ -56,9 +57,12 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 keplergl==0.3.6
+libcst==1.6.0
 MarkupSafe==3.0.2
 matplotlib-inline==0.1.7
 mistune==3.1.0
+MonkeyType==23.3.0
+mypy-extensions==1.0.0
 nbclient==0.10.2
 nbconvert==7.16.5
 nbformat==5.10.4
@@ -71,6 +75,7 @@ packaging==24.2
 pandas==2.2.3
 pandocfilters==1.5.1
 parso==0.8.4
+pathspec==0.12.1
 pexpect==4.9.0
 platformdirs==4.3.6
 prometheus_client==0.21.1

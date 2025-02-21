@@ -1,8 +1,8 @@
-.gitignore
 data/*
 outputs/*
 sedona_venv/*
 lab
+.ipynb_checkpoints/*
 spark-warehouse/*
 tmp_spark_spills/*
 z_volume/my_data/*
