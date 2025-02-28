@@ -11,7 +11,7 @@ z_volume/*
 
 lab
 
-venv/*
+.venv/*
 data.zip
 encrypt.py
 decrypt.py
