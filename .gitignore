@@ -13,8 +13,6 @@ lab
 
 .venv/*
 data.zip
-encrypt.py
-decrypt.py
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
