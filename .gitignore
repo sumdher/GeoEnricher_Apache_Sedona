@@ -2,6 +2,8 @@
 data/*
 enc_keys/*
 encrypt/*
+march_report/*
+march_report.zip
 priv_key/*
 readmes/*
 sedona_venv/*
@@ -16,3 +18,4 @@ data.zip
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
+
