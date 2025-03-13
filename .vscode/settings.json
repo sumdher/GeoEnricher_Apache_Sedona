@@ -1,7 +1,7 @@
 {
-    "python.defaultInterpreterPath": "./sedona_venv/bin/python",
+    "python.defaultInterpreterPath": "./venv/bin/python",
     "python.analysis.extraPaths": [
-        "./sedona_venv/lib/python3.12/site-packages"
+        "./venv/lib/python3.12/site-packages"
     ],
     "git.ignoreLimitWarning": true
 }

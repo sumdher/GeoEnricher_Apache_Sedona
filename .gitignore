@@ -1,21 +1,25 @@
 .ipynb_checkpoints/*
+.mypy.cache/*
+.venv/*
+build/*
 data/*
-enc_keys/*
 encrypt/*
 march_report/*
 march_report.zip
-priv_key/*
 readmes/*
-sedona_venv/*
+trash/*
 spark-warehouse/*
-tmp_spark_spills/*
+.tmp_spark_spills/*
 z_volume/*
 
 lab
 
-.venv/*
+
 data.zip
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
+usage_guide_ntbk.ipynb
 
+
+mypy.ini
