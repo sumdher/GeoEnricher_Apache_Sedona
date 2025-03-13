@@ -19,7 +19,7 @@ data.zip
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
-usage_guide_ntbk.ipynb
+# usage_guide_ntbk.ipynb
 
 
 mypy.ini
