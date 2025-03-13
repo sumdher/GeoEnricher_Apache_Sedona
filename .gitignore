@@ -6,7 +6,7 @@ data/*
 encrypt/*
 march_report/*
 march_report.zip
-readmes/*
+.readmes/
 trash/*
 spark-warehouse/*
 .tmp_spark_spills/*
