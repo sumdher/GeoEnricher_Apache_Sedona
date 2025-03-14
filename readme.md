@@ -164,7 +164,6 @@ enriched_df = obj.enrich_sjoin(
 ![map1](.media_assets/map1.png)
 
 #### Interactive maps:
-- [Italy population](.media_assets/maps/population_grids_IT.html)
 - [Communes with hospital beds](.media_assets/maps/municipalities_beds_ratio_DGURBAN.html)
 - [Communes with average drive time to the nearest hospital](.media_assets/maps/comuni_dist_hospitals_beds.html)
 
