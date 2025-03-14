@@ -1,6 +1,6 @@
 # GeoEnricher 
 
-![geoenricher](.readmes/image.png)
+![geoenricher](.media_assets/logo.png)
 
 Geospatial processing pipeline for large-scale datasets. Built on PySpark + Sedona.
 
@@ -140,8 +140,14 @@ obj.load_from_parquets()
 
 ## Key Features
 
+### Enrichment Operations
 
-### Different Enrichment Operations
+#### Enrich by Overlay + Aggregation: suitable for uniform enricher geometries like grids.
+
+![alt text](.media_assets/EnrichoverlayGUI.png)
+
+#### Enrich by Spatial Join
+
 ```python
 from pyspark.sql import functions as F
 
@@ -154,6 +160,8 @@ enriched_df = obj.enrich_sjoin(
 ```
 
 ### Visualization
+
+![alt text](.media_assets/map1.png)
 
 Pass a list of either: names of the loaded datasets or directly the Spark dataframes in memory.
 
