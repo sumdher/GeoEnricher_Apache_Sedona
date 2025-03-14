@@ -2,6 +2,7 @@
 .mypy.cache/*
 .venv/*
 build/*
+.build/*
 data/*
 encrypt/*
 march_report/*
@@ -13,13 +14,13 @@ spark-warehouse/*
 z_volume/*
 
 lab
-
+demo
 
 data.zip
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
-# usage_guide_ntbk.ipynb
+usage_guide_ntbk_*.ipynb
 
 
 mypy.ini
