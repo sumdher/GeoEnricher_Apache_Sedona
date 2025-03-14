@@ -144,7 +144,7 @@ obj.load_from_parquets()
 
 #### Enrich by Overlay + Aggregation: suitable for uniform enricher geometries like grids.
 
-![alt text](.media_assets/EnrichoverlayGUI.png)
+![EnrichOverlayGUI](.media_assets/EnrichoverlayGUI.png)
 
 #### Enrich by Spatial Join
 
@@ -161,7 +161,12 @@ enriched_df = obj.enrich_sjoin(
 
 ### Visualization
 
-![alt text](.media_assets/map1.png)
+![map1](.media_assets/map1.png)
+
+#### Interactive maps:
+- [Italy population](.media_assets/maps/population_grids_IT.html)
+- [Communes with hospital beds](.media_assets/maps/municipalities_beds_ratio_DGURBAN.html)
+- [Communes with average drive time to the nearest hospital](.media_assets/maps/comuni_dist_hospitals_beds.html)
 
 Pass a list of either: names of the loaded datasets or directly the Spark dataframes in memory.
 
