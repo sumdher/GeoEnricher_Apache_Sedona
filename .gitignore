@@ -1,17 +1,19 @@
-.ipynb_checkpoints/*
-.mypy.cache/*
-.venv/*
-build/*
-.build/*
-data/*
-encrypt/*
-march_report/*
+.ipynb_checkpoints/
+.mypy.cache/
+.venv/
+build/
+.build/
+data/
+encrypt/
+march_report/
 march_report.zip
 .readmes/
-trash/*
-spark-warehouse/*
-.tmp_spark_spills/*
-z_volume/*
+trash/
+temp/
+test/
+spark-warehouse/
+.tmp_spark_spills/
+z_volume/
 
 lab
 demo
@@ -20,7 +22,8 @@ data.zip
 
 new_this.ipynb
 enricher_ntbk_decrypted.ipynb
-usage_guide_ntbk_*.ipynb
-
+usage_guide_ntbk*.ipynb
+KG_ntbk.ipynb
+interactive_kg.html
 
 mypy.ini
